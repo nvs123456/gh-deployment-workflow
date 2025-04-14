@@ -1,3 +1,5 @@
+name: Test workflow
+run-name: example workflow run
 on:
   push:
     branches:
