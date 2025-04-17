@@ -17,3 +17,8 @@ jobs:
     steps:
       - name: run test
         run: echo "test"
+  job-3:
+      runs-on: ubuntu-latest
+      steps:
+        - name: run test
+          run: echo "test"
