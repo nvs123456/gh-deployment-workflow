@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: run test
-        run: echo "test"
+        run: echo "test 2"
   job-3:
       runs-on: ubuntu-latest
       steps:
