@@ -1,1 +1,11 @@
-hehehe
+on:
+  push:
+    branches:
+      - main
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name; hehe
+        run: echo "hehe"
+  
