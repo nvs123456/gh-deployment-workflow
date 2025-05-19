@@ -21,4 +21,4 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: run test
-          run: echo "test"
+          run: echo "test 2"
